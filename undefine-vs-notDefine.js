@@ -1,0 +1,1 @@
+// Undefine is a special keyword, its takes up its memory and assume like a palceholder which is kept from the time being until the variable assigned some other value. at that time its assign a placeholder named "Undefined"
