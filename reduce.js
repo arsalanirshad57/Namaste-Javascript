@@ -53,7 +53,7 @@ const results = employees.reduce((_groupBy, employee) => {
 
   _groupBy.total += salary;
 
-  return D;
+  return _groupBy;
 }, employeesFallback);
 
 const average = results.total / employees.length;
